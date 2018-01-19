@@ -14,7 +14,6 @@
             android:id="@+id/question1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimaryDark"
             android:orientation="vertical">
 
             <TextView
@@ -48,7 +47,6 @@
             android:id="@+id/question3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimaryDark"
             android:orientation="vertical">
 
             <TextView
@@ -82,7 +80,6 @@
             android:id="@+id/question4"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimaryDark"
             android:orientation="vertical">
 
             <TextView
@@ -116,7 +113,6 @@
             android:id="@+id/question5"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimaryDark"
             android:orientation="vertical">
 
             <TextView
@@ -150,7 +146,6 @@
             android:id="@+id/question6"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimaryDark"
             android:orientation="vertical">
 
             <TextView
@@ -186,7 +181,6 @@
             android:id="@+id/question7"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorPrimaryDark"
             android:orientation="vertical">
 
             <TextView
