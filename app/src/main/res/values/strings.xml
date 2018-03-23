@@ -1,3 +1,44 @@
 <resources>
-    <string name="app_name">QuizApp</string>
+    <string name="app_name">Meta-quiz</string>
+
+    <string name="question_1_content">How many questions does this quiz have?</string>
+
+    <string-array name="question_1_answers">
+        <item>One</item>
+        <item>Four</item>
+        <item>Ten</item>
+        <item>This is not a quiz.</item>
+    </string-array>
+
+    <string name="question_2_content">Which answer was correct in the previous question?</string>
+
+    <string-array name="question_2_answers">
+        <item>4th one.</item>
+        <item>3rd one.</item>
+        <item>2nd one.</item>
+        <item>1st one.</item>
+    </string-array>
+
+    <string name="question_3_content">Which answers are correct?</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string-array name="question_3_answers">
+        <item>This app has at least 1 question.</item>
+        <item>This sentence is longer than the previous one.</item>
+        <item>And this one is not.</item>
+        <item>This quiz is unfunny.</item>
+    </string-array>
+
+    <string name="question_4_content">What is the name of this app?</string>
+
+    <string name="question_4_answer">Meta-quiz</string>
+
+    <string name="question_1_placeholder">Question 1 placeholder</string>
+    <string name="question_2_placeholder">Question 2 placeholder</string>
+    <string name="question_3_placeholder">Question 3 placeholder</string>
+    <string name="question_4_placeholder">Question 4 placeholder</string>
+    <string name="question_4_hint">Type your answer here</string>
+    <string name="congratulations_toast">Congratulations! \n   You got %d from %d answers right!</string>
+    <string name="all_questions">You need to answer to all questions</string>
 </resources>
